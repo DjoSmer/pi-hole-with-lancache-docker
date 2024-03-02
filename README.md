@@ -2,7 +2,8 @@
 
 Recently I worked with LanCache.net project. LanCache.net project has 2 main projects. One of them is LanCache-dns which runs a dns server and adds domains from [uklans/cache-domains](https://github.com/uklans/cache-domains).
 Also, I know about Pi-Hole project, which also runs a dns server, and I thought it'd be cool if 2 projects worked together. So, I did it.
-If you use [uklans/cache-domains](https://github.com/uklans/cache-domains) or [Lancache-dns](https://lancache.net/docs/containers/dns/) this project is for you. You can import cache domains from [uklans/cache-domains](https://github.com/uklans/cache-domains) or your fork using Pi-Hole web.
+
+If you use [uklans/cache-domains](https://github.com/uklans/cache-domains) or [Lancache-dns](https://lancache.net/docs/containers/dns/) this project is for you. You can import cache domains from [uklans/cache-domains](https://github.com/uklans/cache-domains) or your fork using `Pi-Hole web`.
 
 ## Quick Start
 
